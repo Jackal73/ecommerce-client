@@ -31,7 +31,7 @@ export const categories = [
   {
     id: 2,
     img: "https://www.bagsher.com/product_images/n/867/Autumn-Pajamas-Set-Ladies-Vintage-Pajamas-For-Women-Sleepwear-Femmes__00797_zoom.jpg",
-    title: "LOUNGEWEAR",
+    title: "LOUNGE WEAR",
   },
   {
     id: 3,
@@ -43,34 +43,34 @@ export const categories = [
 export const popularProducts = [
   {
     id: 1,
-    img: "https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+    img: "http://pngimg.com/uploads/tshirt/tshirt_PNG5428.png",
   },
   {
     id: 2,
-    img: "",
+    img: "https://pngimg.com/uploads/women_bag/women_bag_PNG6423.png",
   },
   {
     id: 3,
-    img: "https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+    img: "http://cdn0.rubylane.com/shops/becasbrimfulboutique/1885.1L.jpg?27",
   },
   {
     id: 4,
-    img: "",
+    img: "http://www.pngmart.com/files/16/Blue-Jeans-PNG-File.png",
   },
   {
     id: 5,
-    img: "https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+    img: "https://i.pinimg.com/originals/54/3d/6b/543d6b081a32c3307632d2f58ba798dc.png",
   },
   {
     id: 6,
-    img: "https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+    img: "https://www.pngarts.com/files/3/Black-Suit-Transparent-Image.png",
   },
   {
     id: 7,
-    img: "",
+    img: "https://pngimg.com/uploads/women_bag/women_bag_PNG6396.png",
   },
   {
     id: 8,
-    img: "https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+    img: "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2017/05/11/goods-first-img/1494438782147851857.png",
   },
 ];
