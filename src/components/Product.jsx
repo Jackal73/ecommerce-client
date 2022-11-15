@@ -13,6 +13,7 @@ const Info = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
+  cursor: pointer;
   transition: all 0.5s ease;
 `;
 
@@ -24,7 +25,7 @@ const Container = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #f5fbfd;
+  background-color: #fcf1ed;
   position: relative;
 
   &:hover ${Info} {
@@ -51,7 +52,6 @@ const Icon = styled.div`
   align-items: center;
   justify-content: center;
   margin: 10px;
-  cursor: pointer;
   transition: all 0.3s ease;
 
   &:hover {
